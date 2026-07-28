@@ -119,7 +119,7 @@ export function Hero() {
                 text="Hi! Are you open this Sunday? Can I book a table for 4?"
               />
               <div className="flex items-center gap-3 rounded-2xl border border-line bg-surface/70 p-4">
-                <Orb state="listening" size={64} aria-label="Agent listening" />
+                <Orb state="solving" size={64} aria-label="Agent solving" />
                 <div>
                   <p className="text-sm font-medium text-foreground">
                     DOTZ agent
